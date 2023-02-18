@@ -1,0 +1,13 @@
+{
+  "Div": 24,
+  "Flex": 294,
+  "Button": 30,
+  "Image": 106,
+  "TextBox": 175,
+  "Cascader": 1,
+  "Carousel": 4,
+  "Input": 11,
+  "Menu": 8,
+  "Dropdown": 1,
+  "VerticalMenu": 2
+}
